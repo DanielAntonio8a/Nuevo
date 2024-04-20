@@ -1,0 +1,7 @@
+{
+  "name": "myLightApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
